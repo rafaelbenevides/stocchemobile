@@ -25,6 +25,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-intent href="https://www.google.com.br/*" />
 
     <platform name="android">
         <allow-intent href="market:*" />
